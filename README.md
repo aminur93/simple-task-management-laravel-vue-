@@ -72,8 +72,5 @@ A full-stack web application built with **Laravel (Backend)** and **Vue.js 3 (Fr
 ---
 
 ## 🧪 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+**Clone the repository**
 
